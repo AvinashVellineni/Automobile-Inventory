@@ -1,0 +1,114 @@
+<accessory id="seatcover">
+        <name>seatcover</name>
+        <price>19.50</price>
+        <image>seatcover.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>Yes</manufacturerRebate>
+     </accessory>
+	 
+	 <accessory id="Steering">
+        <name>Steering</name>
+        <price>45.50</price>
+        <image>Steering.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+	 
+	  <accessory id="Alloy wheels">
+        <name>Alloy wheels</name>
+        <price>200.00</price>
+        <image>Alloy wheels.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>Used</condition>
+        <discount>0.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>Yes</manufacturerRebate>
+     </accessory>
+	 
+	   <accessory id="Video Player">
+        <name>Video Player</name>
+        <price>320.00</price>
+        <image>Video Player.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+	 
+	    <accessory id="Car Phone Holder">
+        <name>Car Phone Holder</name>
+        <price>180.00</price>
+        <image>Car Phone Holder.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>New</condition>
+        <discount>7.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>Yes</manufacturerRebate>
+     </accessory>
+	 
+	 
+	  <accessory id="Seat Organizer">
+        <name>Seat Organizer</name>
+        <price>200.00</price>
+        <image>Seat Organizer.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>Used</condition>
+        <discount>17.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+	 
+	   <accessory id="Exterior Panel">
+        <name>Exterior Panel</name>
+        <price>675.00</price>
+        <image>Exterior Panel.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>New</condition>
+        <discount>23.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+	 
+	 <accessory id="Anti Sleep Alarm">
+        <name>Anti Sleep Alarm</name>
+        <price>750.00</price>
+        <image>Anti Sleep Alarm.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>Used</condition>
+        <discount>0.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>Yes</manufacturerRebate>
+     </accessory>
+	 
+	 
+	  <accessory id="Side panel">
+        <name>Side panel</name>
+        <price>280.00</price>
+        <image>Side panel.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>New</condition>
+        <discount>28.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>No</manufacturerRebate>
+     </accessory>
+	
+	
+	
+	  <accessory id="Flickering Rear Lights">
+        <name>Flickering Rear Lights</name>
+        <price>365.00</price>
+        <image>Flickering Rear Lights.jpg</image>
+        <manufacturer>Mercedes</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <quantity>100</quantity>
+        <manufacturerRebate>Yes</manufacturerRebate>
+     </accessory>
+	 
